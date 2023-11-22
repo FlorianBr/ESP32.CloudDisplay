@@ -1,2 +1,3 @@
 build/
 components/networking/include/wifi_secrets.h
+components/networking/certs/*
